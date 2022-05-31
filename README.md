@@ -36,7 +36,7 @@ OBS: please note that some things mentioned before may be deprecated as the time
  
 
 
-# Some relevant infos about QC 
+## Extras
 
-1. https://www.agatabranczyk.com/careersinquantum.html
+1. Careers in Quantum: https://www.agatabranczyk.com/careersinquantum.html
 
