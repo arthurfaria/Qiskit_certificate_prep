@@ -29,8 +29,8 @@ exam's website: https://www.ibm.com/training/certification/C0010300
 ### Extra useful tools
 
 1. How to get practice with Bloch Sphere rotations: https://javafxpert.github.io/grok-bloch/
-2. Others: https://docs.google.com/document/d/1mx-_3dtwgdE78YuEE9Amb7F6fC455229ZoH53UtC8Ww/edit
-3. Glossary and operations glossary by IBM: https://quantum-computing.ibm.com/composer/docs/iqx/terms-glossary
+2. Glossary and operations glossary by IBM: https://quantum-computing.ibm.com/composer/docs/iqx/terms-glossary
+3. Others: https://docs.google.com/document/d/1mx-_3dtwgdE78YuEE9Amb7F6fC455229ZoH53UtC8Ww/edit
  
 
 OBS: please note that some things mentioned before may be deprecated as the time goes.
