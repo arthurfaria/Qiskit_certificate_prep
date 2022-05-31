@@ -11,7 +11,7 @@ OBS: please note that some things mentioned before may be deprecated as the time
 2. Qiskit-tutorials on GitHub: https://github.com/Qiskit/qiskit-tutorials/tree/master/tutorials
 3. Bartu's repo on GitHub: https://github.com/bartubisgin/qiskit-certified-exam-workbook/blob/main/Workbook-for-Qiskit-Developer-Certification.ipynb
 4. The Ultimate Guide to a Quantum Computing Certification with Qiskit: http://www.primaryobjects.com/2021/09/15/the-ultimate-guide-to-a-quantum-computing-certification-with-qiskit/
-5. [My repo on basic QC algorithms](https://github.com/arthurfaria/QC_basic_agorithms_qiskit):https://github.com/arthurfaria/QC_basic_agorithms_qiskit
+5. My repo on basic QC algorithms: https://github.com/arthurfaria/QC_basic_agorithms_qiskit
 
 ### On how to prepare yourself, Qiskit community and channels
 
@@ -39,5 +39,6 @@ OBS: please note that some things mentioned before may be deprecated as the time
 
 ## Extras
 
-1. Careers in Quantum: https://www.agatabranczyk.com/careersinquantum.html
+1. Quantum Algorithm Implementations for Beginners: https://arxiv.org/abs/1804.03719
+2. Careers in Quantum: https://www.agatabranczyk.com/careersinquantum.html
 
