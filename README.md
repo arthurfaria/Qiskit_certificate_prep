@@ -2,6 +2,8 @@
 
 exam's website: https://www.ibm.com/training/certification/C0010300
 
+OBS: please note that some things mentioned before may be deprecated as the time goes.
+
 
 ### Useful references
 
@@ -33,5 +35,8 @@ exam's website: https://www.ibm.com/training/certification/C0010300
 3. Others: https://docs.google.com/document/d/1mx-_3dtwgdE78YuEE9Amb7F6fC455229ZoH53UtC8Ww/edit
  
 
-OBS: please note that some things mentioned before may be deprecated as the time goes.
+
+# Some relevant infos about QC 
+
+1. https://www.agatabranczyk.com/careersinquantum.html
 
