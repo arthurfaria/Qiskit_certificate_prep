@@ -81,14 +81,19 @@ Focusing on those topics, we suggest:
 
 * **Perform operations on quantum circuits:**
     * theory: Nielsen & Chuang's book, chapter on Quantum Computation 
-    * code: check single_and_multiple_qubits_gates.ipynb
+    * code: 
+          * single_and_multiple_qubits_gates.ipynb
+          * quantum_circuits_and_customized_gates.ipynb
 
 * **Quantum information:**
     * theory: Nielsen & Chuang's book, chapter on Quantum Information
     * code: check fidelity.ipynb
     
-* **Constructing visualizations:**
-    * code: check statevector_and_visualization.ipynb and unitary_simulator_and_operators.ipynb notebooks.
+* **Simulators and visualizations:**
+    * code: 
+        * check statevector_and_visualization.ipynb, 
+        * unitary_simulator_and_operators.ipynb,
+        * qasm_simulator_and_visualization.ipynb.
 
 For the other topics, we suggest the use of flashcards (linked above), as they are more focused on sintax and more reliant on memory.
 
