@@ -21,7 +21,7 @@ OBS: please note that some things mentioned before may be deprecated as the time
 
 #### NEW:  [Study flashcards!](https://quizlet.com/br/703607098/qiskit-dev-certificate-flash-cards/) Password: senhaboba
 
-## Useful infos
+## Useful infos:
 
 ### Extra references:
 
