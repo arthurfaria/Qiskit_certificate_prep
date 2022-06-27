@@ -97,7 +97,7 @@ Focusing on those topics, we suggest:
         * qasm_simulator_and_visualization.ipynb,
         * qiskit_tools.ipynb.
         
-* **Qiskit tools:**
+* **Qiskit tools and system's information:**
     * code: 
         * qiskit_tools.ipynb.
 
