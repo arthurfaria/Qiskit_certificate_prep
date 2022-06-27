@@ -54,7 +54,7 @@ OBS: please note that some things mentioned before may be deprecated as the time
 3. Others: https://docs.google.com/document/d/1mx-_3dtwgdE78YuEE9Amb7F6fC455229ZoH53UtC8Ww/edit
  
 
-## Others
+## Others:
 
 1. Quantum Algorithm Implementations for Beginners: https://arxiv.org/abs/1804.03719
 2. Careers in Quantum: https://www.agatabranczyk.com/careersinquantum.html
