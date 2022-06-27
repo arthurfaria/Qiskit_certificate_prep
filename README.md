@@ -1,4 +1,4 @@
-![](images/ibm.png)
+![](settings/images/ibm.png)
 
 # A Workbook for the Qiskit Developer Certification Exam
 
