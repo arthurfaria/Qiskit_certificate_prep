@@ -1,3 +1,5 @@
+![](images/readme-logo.jpg)
+
 # A Workbook for the Qiskit Developer Certification Exam
 
 exam's website: https://www.ibm.com/training/certification/C0010300
