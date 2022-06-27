@@ -76,32 +76,7 @@ OBS: please note that some things mentioned before may be deprecated as the time
 
 ## Notes on study strategy:
 
-As noted on the exam's content, the most asked questions are about perform operations on quantum circuits(47%), quantum information (10%) and constructing visualizations (19%).
-Focusing on those topics, we suggest:
-
-* **Perform operations on quantum circuits:**
-    * theory: Nielsen & Chuang's book, chapter on Quantum Computation 
-    * code: 
-         * single_and_multiple_qubits_gates.ipynb,
-         * quantum_circuits_and_customized_gates.ipynb
-
-* **Quantum information:**
-    * theory: Nielsen & Chuang's book, chapter on Quantum Information
-    * code: 
-         * fidelity.ipynb
-    
-* **Simulators and visualizations:**
-    * code: 
-        * statevector_and_visualization.ipynb, 
-        * unitary_simulator_and_operators.ipynb,
-        * qasm_simulator_and_visualization.ipynb,
-        * qiskit_tools.ipynb.
-        
-* **Qiskit tools and system's information:**
-    * code: 
-        * qiskit_tools.ipynb.
-
-We also suggest the use of flashcards (linked above), as they are more focused on sintax and more reliant on memory.
+As noted on the exam's content, the most asked questions are about perform operations on quantum circuits(47%), quantum information (10%) and constructing visualizations (19%).  We suggest focusing on those topics. We also suggest the use of flashcards (linked above), as they are more focused on sintax and more reliant on memory.
 
 Of course, practice makes perfect! If possible, consider participating in quantum Hackatons or working on problems from Qiskit Textbook.
 
