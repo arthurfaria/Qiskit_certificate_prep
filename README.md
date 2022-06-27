@@ -23,7 +23,7 @@ OBS: please note that some things mentioned before may be deprecated as the time
 
 ## Useful infos:
 
-### Extra references:
+### Extra references
 
 1. Qiskit Textbook chapters 1-2: https://qiskit.org/textbook/preface.html
 2. Qiskit-tutorials on GitHub: https://github.com/Qiskit/qiskit-tutorials/tree/master/tutorials
