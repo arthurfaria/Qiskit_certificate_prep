@@ -100,7 +100,7 @@ Focusing on those topics, we suggest:
     * code: 
         * qiskit_tools.ipynb.
 
-For the other topics, we suggest the use of flashcards (linked above), as they are more focused on sintax and more reliant on memory.
+We also suggest the use of flashcards (linked above), as they are more focused on sintax and more reliant on memory.
 
 Of course, practice makes perfect! If possible, consider participating in quantum Hackatons or working on problems from Qiskit Textbook.
 
