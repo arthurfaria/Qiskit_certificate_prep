@@ -94,7 +94,8 @@ Focusing on those topics, we suggest:
     * code: 
         * statevector_and_visualization.ipynb, 
         * unitary_simulator_and_operators.ipynb,
-        * qasm_simulator_and_visualization.ipynb.
+        * qasm_simulator_and_visualization.ipynb,
+        * qiskit_tools.ipynb.
         
 * **Qiskit tools:**
     * code: 
