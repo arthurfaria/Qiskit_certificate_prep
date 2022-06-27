@@ -21,7 +21,9 @@ OBS: please note that some things mentioned before may be deprecated as the time
 
 #### NEW:  [Study flashcards!](https://quizlet.com/br/703607098/qiskit-dev-certificate-flash-cards/) Password: senhaboba
 
-## Useful references
+## Useful infos
+
+### Extra references:
 
 1. Qiskit Textbook chapters 1-2: https://qiskit.org/textbook/preface.html
 2. Qiskit-tutorials on GitHub: https://github.com/Qiskit/qiskit-tutorials/tree/master/tutorials
@@ -52,8 +54,7 @@ OBS: please note that some things mentioned before may be deprecated as the time
 3. Others: https://docs.google.com/document/d/1mx-_3dtwgdE78YuEE9Amb7F6fC455229ZoH53UtC8Ww/edit
  
 
-
-## Extras
+## Others
 
 1. Quantum Algorithm Implementations for Beginners: https://arxiv.org/abs/1804.03719
 2. Careers in Quantum: https://www.agatabranczyk.com/careersinquantum.html
