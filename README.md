@@ -4,14 +4,22 @@
 
 exam's website: https://www.ibm.com/training/certification/C0010300
 
-## Repo content:
+## Repository Description:
 
+1. circuits_and_gates:
+   * single_and_multiple_qubits_gates.ipynb
 
+2. simulators_and_visualization:
+   * statevector_and_visualization.ipynb
+   * unitary_simulator_and_operators.ipynb
 
+3. other_tools:
+   * fidelity.ipynb
+   * qiskit_tools.ipynb
 
 OBS: please note that some things mentioned before may be deprecated as the time goes.
 
-### NEW:  [Study flashcards!](https://quizlet.com/br/703607098/qiskit-dev-certificate-flash-cards/) Password: senhaboba
+#### NEW:  [Study flashcards!](https://quizlet.com/br/703607098/qiskit-dev-certificate-flash-cards/) Password: senhaboba
 
 ## Useful references
 
