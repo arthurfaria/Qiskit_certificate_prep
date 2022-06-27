@@ -4,11 +4,16 @@
 
 exam's website: https://www.ibm.com/training/certification/C0010300
 
+## Repo content:
+
+
+
+
 OBS: please note that some things mentioned before may be deprecated as the time goes.
 
-## NEW:  [Study flashcards!](https://quizlet.com/br/703607098/qiskit-dev-certificate-flash-cards/) Password: senhaboba
+### NEW:  [Study flashcards!](https://quizlet.com/br/703607098/qiskit-dev-certificate-flash-cards/) Password: senhaboba
 
-### Useful references
+## Useful references
 
 1. Qiskit Textbook chapters 1-2: https://qiskit.org/textbook/preface.html
 2. Qiskit-tutorials on GitHub: https://github.com/Qiskit/qiskit-tutorials/tree/master/tutorials
