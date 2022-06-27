@@ -21,6 +21,81 @@ OBS: please note that some things mentioned before may be deprecated as the time
 
 #### NEW:  [Study flashcards!](https://quizlet.com/br/703607098/qiskit-dev-certificate-flash-cards/) Password: senhaboba
 
+## Exam contents (from the official exam's website)
+
+**Perform operations on quantum circuits: 47%**
+* Construct multi-qubit quantum registers
+* Measure quantum circuits in classical registers
+* Use single-qubit gates
+* Use multi-qubit gates
+* Use barrier operations
+* Return the circuit depth
+* Extend quantum circuits
+* Return the OpenQASM string for a circuit
+
+**Executing experiments: 3%**
+* Execute a quantum circuit
+
+**Implement BasicAer: Python Based Simulations: 3%**
+* Use the available simulators
+
+**Implement QASM: 1%**
+* Read a QASM file and string
+
+**Compare and contrast quantum information: 10%** 
+* Use classical and quantum registers
+* Use operators
+* Measure fidelity
+
+**Return the experiment results: 7%**
+* Return and understand the histogram data of an experiment
+* Return and understand the statevector of an experiment
+* Return and understand the unitary of an experiment
+
+**Use Qiskit tools: 1%**
+* Monitor the status of a job instance
+
+**Display and use system's information: 3%**
+
+* Perform operations around the Qiskit version
+* Use information gained from %quiskit_backend_overview
+
+**Construct visualizations: 19%**
+* Draw a circuit
+* Plot a histogram of data
+* Plot a Bloch multivector
+* Plot a Bloch vector
+* Plot a QSphere
+* Plot a density matrix
+* Plot a gate map with error rates
+
+**Access Aer provider: 6%**
+* Access a statevector_simulator backend
+* Access a qasm_simulator backend
+* Access a unitary_simulator backend
+
+## Notes on study strategy:
+
+As noted on the exam's content, the most asked questions are about perform operations on quantum circuits(47%), quantum information (10%) and constructing visualizations (19%).
+Focusing on those topics, we suggest:
+
+* **Perform operations on quantum circuits:**
+    * theory: Nielsen & Chuang's book, chapter on Quantum Computation 
+    * code: check single_and_multiple_qubits_gates.ipynb
+
+* **Quantum information:**
+    * theory: Nielsen & Chuang's book, chapter on Quantum Information
+    * code: check fidelity.ipynb
+    
+* **Constructing visualizations:**
+    * code: check statevector_and_visualization.ipynb and unitary_simulator_and_operators.ipynb notebooks.
+
+For the other topics, we suggest the use of flashcards (linked above), as they are more focused on sintax and more reliant on memory.
+
+Of course, practice makes perfect! If possible, consider participating in quantum Hackatons or working on problems from Qiskit Textbook.
+
+**Good luck on your test!**
+
 ## Useful infos:
 
 ### Extra references
