@@ -2,6 +2,8 @@
 
 # A Workbook for the Qiskit Developer Certification Exam
 
+This notebooks cover the vast majority of topics related to the exam (see in section _Exam contents_). It is a result of many references, IBM challenges/schools and discussions with friends. I hope it helps you in getting your certificate. For any questions/suggestions or even _Pull Requests_ please don't hesitate to contact me!
+
 exam's website: https://www.ibm.com/training/certification/C0010300
 
 ## Repository Description:
@@ -15,7 +17,7 @@ exam's website: https://www.ibm.com/training/certification/C0010300
 
 3. other_tools:
    * fidelity.ipynb
-   * qiskit_tools.ipynb
+   * qiskit_tools.ipynb   
 
 OBS: please note that some things mentioned before may be deprecated as the time goes.
 
