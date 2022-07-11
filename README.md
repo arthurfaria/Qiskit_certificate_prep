@@ -4,7 +4,7 @@
 
 This notebooks cover the vast majority of topics related to the exam (see in section _Exam contents_). It is a compilation of many references, IBM challenges/schools and discussions with friends. I hope it helps you in getting your certificate. For any questions/suggestions or even _Pull Requests_ please don't hesitate to contact me!
 
-| [LinkedIn](https://www.linkedin.com/in/arthur-mendonca-faria/)  |
+| [LinkedIn](https://www.linkedin.com/in/arthur-mendonca-faria/) | [Qiskit Slack](https://qiskit.slack.com/?redir=%2Fmessages%2FC7SN3T90V) |
 | ------------- | ------------- |
 
 exam's website: https://www.ibm.com/training/certification/C0010300
