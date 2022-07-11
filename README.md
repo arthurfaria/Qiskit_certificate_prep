@@ -2,7 +2,7 @@
 
 # A Workbook for the Qiskit Developer Certification Exam
 
-This notebooks cover the vast majority of topics related to the exam (see in section _Exam contents_). It is a compilation of many references, IBM challenges/schools and discussions with friends. I hope it helps you in getting your certificate. For any questions/suggestions or even _Pull Requests_ please don't hesitate to contact me: [LinkedIn](https://www.linkedin.com/in/arthur-mendonca-faria/) !
+This notebooks cover the vast majority of topics related to the exam (see in section _Exam contents_). It is a compilation of many references, IBM challenges/schools and discussions with friends. I hope it helps you in getting your certificate. For any questions/suggestions or even _Pull Requests_ please don't hesitate to contact me:[LinkedIn](https://www.linkedin.com/in/arthur-mendonca-faria/)!
 
 exam's website: https://www.ibm.com/training/certification/C0010300
 
