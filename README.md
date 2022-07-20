@@ -14,6 +14,7 @@ exam's website: https://www.ibm.com/training/certification/C0010300
 2. simulators_and_visualization:
    * statevector_and_visualization.ipynb
    * unitary_simulator_and_operators.ipynb
+   * qasm_simulator_and_visualization.ipynb
 
 3. other_tools:
    * fidelity.ipynb
